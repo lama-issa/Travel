@@ -1,0 +1,128 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+
+nav ul {
+    margin-right: 100px;
+}
+
+li {
+    margin: auto;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+header .cont {
+    background-color: cadetblue;
+    color: white;
+    display: flex;
+}
+
+.container {
+    background-image: url("./solo-travel-confidence.jpeg");
+    height: 720px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+header h1 {
+    margin-left: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.read {
+    border-radius: 20px;
+    color: white;
+    border: 1px black solid;
+    background-color: cadetblue;
+    font-size: 20px;
+}
+
+a:hover {
+    color: black;
+}
+
+
+.youertour{
+    height: 30px;
+    width: 800px;
+    background-color: cadetblue;
+    margin: auto;
+
+}
+.labl{
+
+ padding: 20px;
+ margin: auto;
+}
+form {
+    background-color:white;
+    opacity: .9;
+   display: flex;
+   width: 800px;
+   margin: auto;
+
+
+}
+
+.descrpte {
+    background-color: white;
+display: flex;
+    border: 20px cadetblue solid;
+width: 800px;
+margin: auto;
+}
+
+.descrpte p {
+    font-size: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+.abut {}
+
+.abut h2 {
+    text-align: center;
+    margin: 20px auto;
+}
+.Countrys{
+display: flex;
+width: 1000px;
+margin: auto;
+}
+.one{
+    padding: 40px;
+}
+h3{
+    padding-top: 30px;
+    margin: 0;
+}
+p{
+    width: 150px;
+    margin: 0;
+    padding-bottom: 30px;
+}
